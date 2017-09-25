@@ -1,0 +1,9 @@
+{
+  "name": "telecom-test",
+  "version": "0.1.0",
+  "devDependencies": {
+    "jquery": "~3.1.1"
+  },
+  "description": "test project for telecom",
+  "author": "Mikita Tarasau"
+}
